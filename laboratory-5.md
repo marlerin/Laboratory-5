@@ -1,3 +1,4 @@
+# Exercises
 ## 2. Which one would you like to try? Sign up to it
 
 Take a look and check some differences between it and GitHub. Take screenshots to show them (at least two differences)
